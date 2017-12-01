@@ -1,21 +1,17 @@
+html {
+  font-family: Helvetica
+}
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
-  font-family: Helvetica;
   font-size: 100px;
-  font-weight: bold;
   color: khaki;
   text-align: center;
 }
-.sections {
-  font-family: Helvetica;
+h2 {
   font-size: 32px;
-  font-weight: bold;
   color: white;
 }
-
-.price {
-  font-family: Helvetica;
-  font-weight: bold;
+strong {
   color: blue;
 }
 .brushes {
@@ -26,12 +22,4 @@
 }
 .paint {
   background-color: skyblue;
-}
-p {
-  color: black;
-  font-weight: normal;
-}
-h3 {
-  color: black;
-  font-weight: bold;
 }
